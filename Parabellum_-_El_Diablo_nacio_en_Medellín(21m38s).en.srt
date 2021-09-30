@@ -814,7 +814,7 @@ We'll be right back!
 
 188
 00:10:30,650 --> 00:10:32,650
-BM
+
 
 189
 00:10:33,010 --> 00:10:35,010
@@ -1423,4 +1423,4 @@ Principal called me that once.
 
 323
 00:21:31,600 --> 00:21:33,810
-We made a lot of fun for that anyway.
+We made a lot of fun of that anyway.
